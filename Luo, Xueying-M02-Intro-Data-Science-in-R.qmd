@@ -64,7 +64,7 @@ I also like that if the data changes, I can rerun the code and update the result
 > Summarize the instructor's lecture about Quarto that you found impressive. Do you see yourself using Quarto every day for your job or study, like taking notes in your class or preparing a presentation? More eye-catching effects will be introduced in later modules.
 
 | Quarto | Why? |
-|----|----|
+|------------------------------------|------------------------------------|
 | Tables | Easy to create in Visual mode and useful for organizing information. |
 | Citations | I can add citations using a DOI, and Quarto can create the reference list automatically. |
 | Cross-references | Figures and tables can be numbered and linked automatically. |
