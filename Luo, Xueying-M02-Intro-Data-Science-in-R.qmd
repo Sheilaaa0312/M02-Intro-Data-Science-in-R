@@ -168,8 +168,8 @@ So for me, the debate is less about deciding which language is better. It is mor
 
 ## GitHub Repository
 
-[View my GitHub Repository](https://github.com/Sheilaaa0312/Luo-Xueying-M02-Intro-Data-Science-in-R)
+[View my GitHub Repository](https://github.com/Sheilaaa0312/M02-Intro-Data-Science-in-R)
 
 ## GitHub Pages
 
-[View my web page on GitHub Pages](https://sheilaaa0312.github.io/Luo-Xueying-M02-Intro-Data-Science-in-R/)
+[View my web page on GitHub Pages](https://sheilaaa0312.github.io/M02-Intro-Data-Science-in-R/)
