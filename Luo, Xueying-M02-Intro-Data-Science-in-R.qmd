@@ -163,3 +163,13 @@ I think both R and Python are useful, and I do not think one clearly surpasses t
 The Quarto video made me realize that people on the same team do not have to use the same programming language. The NASA Openscapes example stood out to me because some team members used R and RStudio while others worked with Python and Jupyter. Quarto still allowed them to contribute to the same project.
 
 So for me, the debate is less about deciding which language is better. It is more about choosing the language that fits the task and being able to collaborate with people who use different tools. I think this is very common in the workplace because team members often have different technical backgrounds and preferences.
+
+# Appendix
+
+## GitHub Repository
+
+[View my GitHub Repository](https://github.com/Sheilaaa0312/Luo-Xueying-M02-Intro-Data-Science-in-R)
+
+## GitHub Pages
+
+[View my web page on GitHub Pages](https://sheilaaa0312.github.io/Luo-Xueying-M02-Intro-Data-Science-in-R/)
